@@ -30,15 +30,6 @@ The performance of the models is assessed based on the chosen evaluation metrics
 
 The project demonstrates the application of machine learning in predicting Parkinson's disease. The results provide insights into the effectiveness of different models and techniques for this task.
 
-## Future Work
-
-Potential improvements and extensions for the project could include:
-
-- Exploring other machine learning models.
-- Hyperparameter tuning for optimal performance.
-- Feature engineering to create more informative features.
-- Deploying the model for real-world applications.
-
 ## Dependencies
 
 - Python 3.x
